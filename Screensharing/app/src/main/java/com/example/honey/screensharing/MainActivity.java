@@ -24,7 +24,7 @@ import com.opentok.android.Subscriber;
 import com.opentok.android.SubscriberKit;
 
 import java.util.List;
-import static com.opentok.client.DeviceInfo.getApplicationContext;
+//import static com.opentok.client.DeviceInfo.getApplicationContext;
 
 import pub.devrel.easypermissions.AfterPermissionGranted;
 import pub.devrel.easypermissions.AppSettingsDialog;
